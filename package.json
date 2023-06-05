@@ -1,0 +1,27 @@
+{
+  "name": "input-ui",
+  "version": "1.0.0",
+  "description": "This is a UI for React Js input elements",
+  "main": "./dist/input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onukwilip/input-ui.git"
+  },
+  "keywords": [
+    "react",
+    "input",
+    "input-ui",
+    "input",
+    "ui",
+    "ui"
+  ],
+  "author": "Prince C. Onukwili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onukwilip/input-ui/issues"
+  },
+  "homepage": "https://github.com/onukwilip/input-ui#readme"
+}
